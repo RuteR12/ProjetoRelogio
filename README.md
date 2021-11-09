@@ -1,6 +1,6 @@
 # ProjetoRelogio
 
-<a href="https://ruter12.github.io/relogio/">
+<a href="https://ruter12.github.io/ProjetoRelogio/">
   
 ![image](https://user-images.githubusercontent.com/91957988/139685971-3cae96e3-5b3f-4d18-9ffc-213f063810f8.png)
 
